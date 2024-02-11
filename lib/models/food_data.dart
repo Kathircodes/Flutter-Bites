@@ -1,0 +1,58 @@
+import 'package:flutter_bites/models/food_details.dart';
+
+List<FoodDetails> foodList = [
+  FoodDetails(
+      "McSpicy",
+      199,
+      4.7,
+      "A flavorful burger with a spicy kick, the McSpicy is sure to tantalize your taste buds. Made with premium ingredients and served with a side of fries, it's the perfect choice for those craving bold flavors.",
+      1,
+      "20 mins",
+      "2000+",
+      0),
+  FoodDetails(
+      "Veggie Burger",
+      199,
+      4.6,
+      "A delicious and nutritious option for vegetarians, the Veggie Burger is packed with fresh vegetables and served on a soft bun. It's a satisfying choice for those looking for a meatless meal. This burger is known for its burst of flavors and crunchy texture.",
+      2,
+      "25 mins",
+      "1500+",
+      0),
+  FoodDetails(
+      "Maharaja Mac",
+      199,
+      4.8,
+      "Fit for royalty, the Maharaja Mac is a regal burger loaded with succulent meat, fresh lettuce, and creamy sauce. Indulge in the rich flavors of this majestic sandwich. This burger is a true feast for the senses, with every bite offering a taste of luxury.",
+      3,
+      "30 mins",
+      "3000+",
+      0),
+  FoodDetails(
+      "Zinger Burger",
+      185,
+      4.5,
+      "Get ready for a burst of flavor with the Zinger Burger. Crispy and spicy, it's a fiery delight that will leave you craving for more. Served with a side of fries for the perfect meal. This burger is a favorite among spice lovers, offering a perfect blend of heat and flavor.",
+      4,
+      "22 mins",
+      "1800+",
+      0),
+  FoodDetails(
+      "Chicken Burger",
+      250,
+      4.7,
+      "Satisfy your hunger with the Chicken Burger, a juicy and tender sandwich that is sure to satisfy. Made with premium chicken breast and served with a side of coleslaw, it's a classic favorite. This burger is loved for its succulent chicken and perfectly balanced flavors.",
+      5,
+      "18 mins",
+      "2200+",
+      0),
+  FoodDetails(
+      "Black Burger",
+      240,
+      4.2,
+      "Experience the bold flavors of the Black Burger, a unique creation that combines savory beef patties with tangy BBQ sauce and melted cheese. It's a mouthwatering delight that will leave you wanting more. This burger is perfect for those who crave intense flavors and hearty satisfaction.",
+      6,
+      "28 mins",
+      "1700+",
+      0),
+];
